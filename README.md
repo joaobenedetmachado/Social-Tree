@@ -1,6 +1,6 @@
 # Social-Tree
 <!--Desafio RocketSeat-->
 
-# Desafio Proposto - RocketSeat
+# Desafio - RocketSeat
 # LINK DO DESAFIO 
 //https://app.rocketseat.com.br/discover/challenges/social-tree
