@@ -4,6 +4,6 @@
 Desafio - RocketSeat
 
 https://app.rocketseat.com.br/discover/challenges/social-tree
-<p align="center">
+<div align="center">
   <img src="[https://imageup.me/3mt](https://imageup.me/3mt)" width="350">
-</p>
+</div>
